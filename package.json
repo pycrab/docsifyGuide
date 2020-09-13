@@ -1,0 +1,23 @@
+{
+  "name": "docsifyGuide",
+  "version": "1.0.0",
+  "description": "一份文档博客搭建工具指南，可以Clone到本地直接使用哦",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "doc": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pycrab/docsifyGuide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pycrab/docsifyGuide/issues"
+  },
+  "homepage": "https://github.com/pycrab/docsifyGuide#readme"
+}
